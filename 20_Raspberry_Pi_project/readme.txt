@@ -79,6 +79,9 @@ Die Installation der D*Lite Applikation besteht aus:
 ------------------    
 Bekannte Probleme:
   - Der EV3-Roboter sollte immer mit frischen Batterien oder geladenem Akku betrieben werden.
+  - Bedenken Sie, dass die Motoren des  PathRunner rückwärts drehen, wenn er vorwärts fährt.
+    Ist dies bei Ihrem Roboter nicht so, verwenden Sie für beide Motoren 
+	den „Invert Motor Block“. 
     
 ========================English Version====================================
 Installation of the application "Interactive D*Lite"
@@ -160,6 +163,9 @@ Installation steps:
 --------------       
 Known issues:
   - Please run the robot allways with fresh batteries or loaded accumulator.
+  - Keep in mind that the PathRunner's motors are spinning backwards
+    when it is moving forward. If this is not the case with your robot, 
+	use the "Invert Motor Block" for both motors.
  
       
    
