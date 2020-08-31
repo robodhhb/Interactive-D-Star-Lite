@@ -62,15 +62,15 @@ Die Installation der D*Lite Applikation besteht aus:
        - EV3-Stein: Auf dem Display wird oben links ein BT-Icon und direkt 
          daneben "<" und ">" angezeigt. Im Raspberry Pi ist /etc/rfcomm0 vorhanden.
                     
-6) !!!!Download des GitHub-Repository 
+6) Download des GitHub-Repository 
    auf dem Raspberry Pi unter dem user "pi":
-   https://github.com/robodhhb/RoboPiCam
+   https://github.com/robodhhb/Interactive-D-Star-Lite
    und auch auf einem PC mit Verbindung zum EV3-Roboter
 
 7) PC: Lego Mindstorms Projekt "PathRunner_V1.ev3" auf den Roboter laden.
 
-8) !!!!Pi: LXTerminal öffnen und zip-Datei mit unzip in einem Ordner Ihrer Wahl entpacken
-    und in den Ordner "RoboPiCamPi" mit cd wechseln
+8) Pi: LXTerminal öffnen und zip-Datei mit unzip in einem Ordner Ihrer Wahl entpacken
+    und in den Ordner "Interactive-D-Star-Lite" mit cd wechseln
 
 9) Programme starten:
     - Auf dem EV3 Roboter: main im Projekt PathRunner_V1.ev3
@@ -144,16 +144,16 @@ Installation steps:
       - On EV3: On display you see at the top a BT-icon and "<>". 
       - On Pi: /etc/rfcomm0  is present.
 
-6) !!!!Download the GitHub-Repository 
+6) Download the GitHub-Repository 
    on the Raspberry Pi under the user "pi":
-   https://github.com/robodhhb/RoboPiCam
+   https://github.com/robodhhb/Interactive-D-Star-Lite
    and also on a PC with connection to the EV3-robot
 
 7) PC: Load EV3-project "PathRunner_V1.ev3" on the EV3
    
 8) On Pi: Open LXTerminal and unzip downloaded file in a folder of your choice
    
-9) !!!!Change directory to "RoboPiCam" and run the programs:
+9) Change directory to "Interactive-D-Star-Lite" and run the programs:
        - On EV3: Start main in project "PathRunner_V1.ev3"
        - On Pi:  python3 DStarLiteMain.py
  
