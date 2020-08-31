@@ -1,6 +1,8 @@
 # Interactive-D-Star-Lite
 Interactive path planning with D*Lite on Raspberry Pi for Lego EV3 robots
 
+![Screenshot](geplant_klein.png)
+
 ## Willkommen bei „Interactive D*Lite“(see English version below)
 Diese Projekt realisiert ein interaktives Python Programm zur Pfadplanung für Lego-EV3-Robotern mit dem D* Lite Algorithmus (Koenig, Likhachev, 2002). Ein Operateur legt Start- und Zielfeld sowie bekannte Hindernisse fest. Danach ermittelt D* Lite den kürzesten Pfad zwischen Start- und Zielfeld. Der Pfadplan kann als Simulation ausgeführt werden. Der Operateur kann ungeplante Hindernisse auf dem Pfad einfügen und D* Lite plant dann automatisch eine neue Route.
 
