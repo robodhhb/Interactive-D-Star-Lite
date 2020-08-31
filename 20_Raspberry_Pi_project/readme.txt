@@ -1,10 +1,11 @@
 Installation der D*Lite Applikation (see English Version below)
 ===================================================================
 Voraussetzung: Raspberry Model 3B+ oder höher mit 
-  - Raspbian Buster  und Python 3.7.3
+  - Raspbian Buster oder Raspberry Pi OS Buster mit
+  - Python 3.7.3 oder höher
   - Lego Mindstorms EV3
 
-Empfohlen: Update von Raspbian Buster
+Empfohlen: Update von Raspbian/Pi OS Buster
 - sudo apt update
 - sudo apt full-upgrade
 
@@ -77,16 +78,17 @@ Die Installation der D*Lite Applikation besteht aus:
       
 ------------------    
 Bekannte Probleme:
-  Zur Zeit keine.
+  - Der EV3-Roboter sollte immer mit frischen Batterien oder geladenem Akku betrieben werden.
     
 ========================English Version====================================
 Installation of the application "Interactive D*Lite"
 ----------------------------------------------------
 Prerequisite: Raspberry Pi 3 Model B+ or higher with:
-   - Raspbian Buster and Python 3.7.3
+   - Raspbian Buster or Raspberry Pi OS Buster with
+   - Python 3.7.3 or higher
    - Lego Mindstorms EV3
    
-Recommended: Update Raspbian Buster
+Recommended: Update Raspbian/Pi OS Buster
 - sudo apt update
 - sudo apt full-upgrade
 
@@ -157,7 +159,7 @@ Installation steps:
  
 --------------       
 Known issues:
-  So far none
+  - Please run the robot allways with fresh batteries or loaded accumulator.
  
       
    
