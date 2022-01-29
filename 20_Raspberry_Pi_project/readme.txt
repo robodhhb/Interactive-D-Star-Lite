@@ -1,7 +1,7 @@
 Installation der D*Lite Applikation (see English Version below)
 ===================================================================
-Voraussetzung: Raspberry Model 3B+ oder höher mit 
-  - Raspbian Buster oder Raspberry Pi OS Buster mit
+Voraussetzung: Raspberry Model 3B+ oder 4B mit 
+  - Raspbian Buster oder Raspberry Pi OS Buster (Legacy) mit
   - Python 3.7.3 oder höher
   - Lego Mindstorms EV3
 
@@ -86,8 +86,8 @@ Bekannte Probleme:
 ========================English Version====================================
 Installation of the application "Interactive D*Lite"
 ----------------------------------------------------
-Prerequisite: Raspberry Pi 3 Model B+ or higher with:
-   - Raspbian Buster or Raspberry Pi OS Buster with
+Prerequisite: Raspberry Pi 3 Model B+ or 4B with:
+   - Raspbian Buster or Raspberry Pi OS Buster (Legacy) with
    - Python 3.7.3 or higher
    - Lego Mindstorms EV3
    
